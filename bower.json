@@ -1,0 +1,21 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "authors": [
+    "Juan Solano <juanp.solano@gmail.com>"
+  ],
+  "description": "This is My TODO List Angular App",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-ui-router": "~0.2.15"
+  }
+}
