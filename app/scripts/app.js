@@ -2,7 +2,8 @@
 
 // Declare app level module which depends on views, and components
 angular.module('myApp', [
-  'ui.router'
+  'ui.router',
+  'ui.bootstrap'
 ])
 .config(function($stateProvider, $urlRouterProvider) { 
 
